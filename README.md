@@ -15,14 +15,14 @@ I’m a software enthusiast with a strong drive to solve real-world problems thr
 
 ### 💡 Skills
 
-- **Languages**: Python, JavaScript, HTML/CSS, SQL  
+- **Languages**: C++,Python, JavaScript, HTML/CSS, SQL  
 - **Frameworks**: Flask, SQL
 - **APIs**: Gemini, YouTube Data API  
-- **Tools**: Docker, Git, Postman  
+- **Tools**:  Git, Postman  
 - **Other**: Encryption, Machine Learning, API rate-limiting, caching strategies
 
 ### 🚀 About Me
 
 I’m constantly exploring new technologies, refining my skills, and seeking opportunities to solve complex challenges. My ultimate goal is to contribute as a **software engineer**, building impactful solutions that drive change.
 
-Let’s collaborate! Feel free to check out my repositories or reach out to me via [LinkedIn](www.linkedin.com/in/pranjal-8a9185246).
+Let’s collaborate! Feel free to check out my repositories or reach out to me via LinkedIn.
