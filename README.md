@@ -25,4 +25,4 @@ I’m a software enthusiast with a strong drive to solve real-world problems thr
 
 I’m constantly exploring new technologies, refining my skills, and seeking opportunities to solve complex challenges. My ultimate goal is to contribute as a **software engineer**, building impactful solutions that drive change.
 
-Let’s collaborate! Feel free to check out my repositories or reach out to me via [LinkedIn](#).
+Let’s collaborate! Feel free to check out my repositories or reach out to me via [LinkedIn](www.linkedin.com/in/pranjal-8a9185246).
