@@ -17,7 +17,7 @@ I’m a software enthusiast with a strong drive to solve real-world problems thr
 
 - **Languages**: C++,Python, JavaScript, HTML/CSS, SQL  
 - **Frameworks**: Flask, SQL
-- **APIs**: Gemini, YouTube Data API  
+- **APIs**: Gemini 
 - **Tools**:  Git, Postman  
 - **Other**: Encryption, Machine Learning, API rate-limiting, caching strategies
 
